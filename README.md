@@ -1,4 +1,4 @@
-_## 1. Download Golang above 1.20 version
+## 1. Download Golang above 1.20 version
 - https://go.dev/doc/install
 
 ## 2. Clone this reoisitory
